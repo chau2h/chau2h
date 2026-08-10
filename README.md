@@ -31,8 +31,3 @@ Hi there 👋, I'm Nguyen Tan Chau!
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
 </p>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chau2h&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chau2h&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
