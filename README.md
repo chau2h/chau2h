@@ -1,7 +1,7 @@
 Hi there 👋, I'm Nguyen Tan Chau! 
 
 ### 👨‍💻 About Me
-* 🎓 Senior Information Technology student at **Ho Chi Minh University of Science (HCMUS)**.
+* 🎓 Information Technology graduate at **Ho Chi Minh University of Science (HCMUS)**.
 * 💻 Passionate about **Full-Stack Web Development**, Software Architecture, and building scalable APIs.
 * 🚀 Currently focusing on the JavaScript/TypeScript ecosystem (React.js, Node.js) and C# ASP.NET Core.
 * 📫 How to reach me: **chau010804@gmail.com** | [LinkedIn](https://www.linkedin.com/in/chau-nguyen-b750b4417/)
